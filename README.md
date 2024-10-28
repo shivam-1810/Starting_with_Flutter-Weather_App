@@ -2,11 +2,11 @@
 
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-blue)](https://flutter.dev) [![OpenWeather API](https://img.shields.io/badge/API-OpenWeather-orange)](https://openweathermap.org/api)
 
-A simple and responsive weather application built with Flutter, providing real-time weather updates for the user’s current location. This app uses the OpenWeather API to deliver accurate weather data and demonstrates Flutter's cross-platform capabilities.
+A simple and responsive weather application built with Flutter, providing real-time weather updates. This app uses the OpenWeather API to deliver accurate weather data and demonstrates Flutter's cross-platform capabilities.
 
 ## 📱 App Overview
 
-This weather app is designed to automatically detect the user's current location and display live weather information, including temperature, humidity, and wind speed, in a user-friendly interface. 
+This weather app is designed to display the live weather information, including temperature, humidity, and wind speed, in a user-friendly interface. 
 
 ## 🌟 Key Features
 
