@@ -11,7 +11,6 @@ This weather app is designed to automatically detect the user's current location
 ## 🌟 Key Features
 
 - **Real-Time Weather Data**: Displays live temperature, humidity, wind speed, and weather conditions.
-- **Automatic Location Detection**: Shows weather data for your current location upon granting location permissions.
 - **Clean, Minimalist UI**: Focused on ease of use with a straightforward design.
 
 ## 🛠️ Technologies Used
